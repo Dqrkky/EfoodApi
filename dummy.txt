@@ -1,0 +1,8 @@
+{
+    "method": "get",
+    "url": "https://api.e-food.gr/v3/shops/catalog/product",
+    "params": {
+        "shop_id": '',
+        "item_code": ''
+    }
+}
