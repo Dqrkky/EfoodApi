@@ -23,7 +23,7 @@ class Efood:
             "sec-fetch-dest": "empty",
             "sec-fetch-mode": "cors",
             "sec-fetch-site": "same-site",
-            "User-Agent": f"eFoodBot/1.0 (Python; Requests {requests.__version__}) https://github.com/Dqrkky/Efood",
+            "User-Agent": f"eFoodBot/1.0 (Python; Requests {requests.__version__}) https://github.com/Dqrkky/EfoodApi",
             "x-core-platform": "web",
             "x-core-version": "2.87.14"
         }
